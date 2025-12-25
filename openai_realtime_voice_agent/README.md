@@ -8,7 +8,7 @@ Home Assistant addon that provides OpenAI Realtime API integration with WebSocke
 
 1. In Home Assistant, go to **Supervisor** → **Add-on Store**
 2. Click the **⋮** menu (top right) → **Repositories**
-3. Add this repository: `https://github.com/fjfricke/ha-openai-realtime`
+3. Add this repository: `https://github.com/Uthagsvagen/VoicePeRealtime`
 4. Find **OpenAI Realtime Voice Agent** in the addon store and install it
 
 ### Option 2: Manual Installation
